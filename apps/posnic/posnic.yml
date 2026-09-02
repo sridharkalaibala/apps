@@ -1,0 +1,14 @@
+name: Posnic
+description: 'Offline-first POS and billing software for retail and restaurants.'
+website: 'https://www.posnic.com/'
+category: Business
+repository: 'https://github.com/Posnic/POS'
+keywords:
+  - pos
+  - billing-software
+  - offline-pos
+  - online-offline-pos
+  - open-source-pos
+  - retail
+  - restaurant
+license: AGPL-3.0-only
